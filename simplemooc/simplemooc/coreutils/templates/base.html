@@ -12,11 +12,11 @@
 <body>
 <div class="header">
     <div class="pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal">
-        <a class="pure-menu-heading" href="{% url 'index' %}">SIMPLE MOOC</a>
+        <a class="pure-menu-heading" href="{% url 'coreutils:home' %}">SIMPLE MOOC</a>
         <ul>
-            <li class="pure-menu-selected"><a href="{% url 'index' %}">Início</a></li>
-            <li><a href="#">Cursos</a></li>
-            <li><a href="{% url 'contact' %}">Contato</a></li>
+            <li class="pure-menu-selected"><a href="{% url 'coreutils:home' %}">Início</a></li>
+            <li><a href="{% url 'courses:index' %}">Cursos</a></li>
+            <li><a href="{% url 'coreutils:contact' %}">Contato</a></li>
         </ul>
     </div>
 </div>   

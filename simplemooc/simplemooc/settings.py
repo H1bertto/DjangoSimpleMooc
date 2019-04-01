@@ -38,8 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'coreutils.apps.CoreutilsConfig',
-    'courses.apps.CoursesConfig',
+    'simplemooc.coreutils.apps.CoreutilsConfig',
+    'simplemooc.courses.apps.CoursesConfig',
+    # 'simplemooc.coreutils'
     # 'simplemooc.courses'
 
 ]
