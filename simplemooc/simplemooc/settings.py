@@ -25,7 +25,7 @@ SECRET_KEY = 'sf+n3%m*gr2zcgw6dl&9!2t_9)c=!y16ttb(m(lwk0#mr&na_g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.22.94.151']
+ALLOWED_HOSTS = ['10.22.94.151', '127.0.0.1']
 
 
 # Application definition
@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'coreutils.apps.CoreutilsConfig',
+    'courses.apps.CoursesConfig',
+    # 'simplemooc.courses'
 
 ]
 
