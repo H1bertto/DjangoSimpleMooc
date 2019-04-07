@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e09712d-04a4-426b-accc-aa75a6b1af5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/templates/courses/details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/templates/courses/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/media/courses/images/python-dev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/media/courses/images/python-zumbis.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DjangoSimpleMooc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoSimpleMooc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/static/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/templates/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/coreutils/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/courses/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/courses/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/courses/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/courses/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/courses/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/courses/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/courses/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/simplemooc/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/simplemooc/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/urls.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,9 +15,7 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/simplemooc/simplemooc/courses/templates/courses/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-162" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -88,10 +56,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1230" />
-    <option name="y" value="-80" />
-    <option name="width" value="1320" />
-    <option name="height" value="784" />
+    <option name="x" value="308" />
+    <option name="y" value="135" />
+    <option name="width" value="1382" />
+    <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -153,6 +121,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -178,13 +147,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="77cdb157-82a2-4329-86a8-2c17d4aded3c" name="Default Changelist" comment="" />
+      <changelist id="4e09712d-04a4-426b-accc-aa75a6b1af5e" name="Default Changelist" comment="" />
       <created>1554079393982</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554079393982</updated>
       <workItem from="1554079396833" duration="10047000" />
     </task>
+    <task id="LOCAL-00001" summary="Adicionado Novo template para cursos e Ajudstado Hierarquia de pastas">
+      <created>1554146959420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554146959420</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -192,9 +169,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1216" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13435195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13435195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -207,7 +183,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32963988" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32963988" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -219,6 +195,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionado Novo template para cursos e Ajudstado Hierarquia de pastas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado Novo template para cursos e Ajudstado Hierarquia de pastas" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/simplemooc/simplemooc/coreutils/tests.py">
@@ -337,13 +317,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simplemooc/simplemooc/courses/templates/courses/details.html">
+    <entry file="file://$PROJECT_DIR$/simplemooc/simplemooc/courses/templates/courses/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/simplemooc/simplemooc/courses/templates/courses/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/simplemooc/simplemooc/courses/templates/courses/details.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
