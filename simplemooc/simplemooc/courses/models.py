@@ -11,7 +11,8 @@ class Course(models.Model):
 
     name = models.CharField("Nome", max_length=100)
     slug = models.SlugField("Atalho", )
-    descripition = models.TextField("Descrição", blank=True)
+    description = models.TextField("Descrição", blank=True)
+    about = models.TextField("Sobre o Curso", blank=True)
     start_date = models.DateField("Data de Início", null=True, blank=True)
     image = models.ImageField(upload_to='courses/images', verbose_name='Imagem', null=True, blank=True)
     created_at = models.DateTimeField('Criado em', auto_now_add=True)
@@ -21,6 +22,11 @@ class Course(models.Model):
 
     def __str__(self):
         return self.name
+
+    def get_absolute_url(self):
+        # from django.urls import reverse
+        # return reverse('courses.view.details', args=[str(self.slug)])
+        return '/cursos/%s' % self.slug
 
     class Meta:
         verbose_name = 'Curso'
