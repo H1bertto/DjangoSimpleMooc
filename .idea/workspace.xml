@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77cdb157-82a2-4329-86a8-2c17d4aded3c" name="Default Changelist" comment="" />
+    <list default="true" id="77cdb157-82a2-4329-86a8-2c17d4aded3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/venv/" />
-    <ignored path="simplemooc/simplemooc/settings.py" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,28 +184,6 @@
               <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
               <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DjangoSimpleMooc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoSimpleMooc" type="462c0819:PsiDirectoryNode" />
-              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
-              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
-              <item name="coreutils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoSimpleMooc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoSimpleMooc" type="462c0819:PsiDirectoryNode" />
-              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
-              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
-              <item name="courses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoSimpleMooc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoSimpleMooc" type="462c0819:PsiDirectoryNode" />
-              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
-              <item name="simplemooc" type="462c0819:PsiDirectoryNode" />
-              <item name="courses" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -217,7 +196,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/simplemooc/simplemooc/settings.py" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -256,7 +235,7 @@
       <workItem from="1554766026812" duration="645000" />
       <workItem from="1554771225956" duration="603000" />
       <workItem from="1554828600043" duration="108000" />
-      <workItem from="1555177541418" duration="11786000" />
+      <workItem from="1555177541418" duration="12307000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionado Novo template para cursos e Ajudstado Hierarquia de pastas">
       <created>1554146959420</created>
@@ -286,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555191852769</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Teste">
+      <created>1555192576885</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555192576885</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39570000" />
+    <option name="totallyTimeSpent" value="40091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-264" width="1296" height="1040" extended-state="6" />
@@ -325,7 +311,8 @@
     <MESSAGE value="Adicionado Novo template para cursos e Ajudstado Hierarquia de pastas" />
     <MESSAGE value="Adicionado Media Root, Forms e Otimizado Models, Views, Urls" />
     <MESSAGE value="&gt; From: 'Courses'&#10;Optimized: 'forms, view'&#10;&gt; From: 'simplemooc'&#10;Added: 'Accounts'&#10;Optimized: 'settings'&#10;&gt; From: 'coreutils'&#10;Added: 'mail'" />
-    <option name="LAST_COMMIT_MESSAGE" value="&gt; From: 'Courses'&#10;Optimized: 'forms, view'&#10;&gt; From: 'simplemooc'&#10;Added: 'Accounts'&#10;Optimized: 'settings'&#10;&gt; From: 'coreutils'&#10;Added: 'mail'" />
+    <MESSAGE value="Teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/simplemooc/simplemooc/coreutils/tests.py">
