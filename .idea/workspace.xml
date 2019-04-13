@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77cdb157-82a2-4329-86a8-2c17d4aded3c" name="Default Changelist" comment="Adicionado Media Root, Forms e Otimizado Models, Views, Urls">
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/accounts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/accounts/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/accounts/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/accounts/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/accounts/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/accounts/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/accounts/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/mail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/templates/courses/contact_email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplemooc/simplemooc/media/courses/images/python-zumbis_pvxnwB0.png" afterDir="false" />
+    <list default="true" id="77cdb157-82a2-4329-86a8-2c17d4aded3c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/coreutils/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/simplemooc/courses/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/simplemooc/courses/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/courses/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplemooc/simplemooc/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplemooc/simplemooc/settings.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <ignored path="simplemooc/simplemooc/settings.py" />
@@ -273,7 +258,7 @@
       <workItem from="1554766026812" duration="645000" />
       <workItem from="1554771225956" duration="603000" />
       <workItem from="1554828600043" duration="108000" />
-      <workItem from="1555177541418" duration="10240000" />
+      <workItem from="1555177541418" duration="11321000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionado Novo template para cursos e Ajudstado Hierarquia de pastas">
       <created>1554146959420</created>
@@ -289,17 +274,23 @@
       <option name="project" value="LOCAL" />
       <updated>1554696821687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&gt; From: 'Courses'&#10;Optimized: 'forms, view'&#10;&gt; From: 'simplemooc'&#10;Added: 'Accounts'&#10;Optimized: 'settings'&#10;&gt; From: 'coreutils'&#10;Added: 'mail'">
+      <created>1555191561351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555191561351</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38024000" />
+    <option name="totallyTimeSpent" value="39105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-264" width="1296" height="1040" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19093852" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19093852" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -312,7 +303,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36493936" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36493936" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -328,7 +319,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionado Novo template para cursos e Ajudstado Hierarquia de pastas" />
     <MESSAGE value="Adicionado Media Root, Forms e Otimizado Models, Views, Urls" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado Media Root, Forms e Otimizado Models, Views, Urls" />
+    <MESSAGE value="&gt; From: 'Courses'&#10;Optimized: 'forms, view'&#10;&gt; From: 'simplemooc'&#10;Added: 'Accounts'&#10;Optimized: 'settings'&#10;&gt; From: 'coreutils'&#10;Added: 'mail'" />
+    <option name="LAST_COMMIT_MESSAGE" value="&gt; From: 'Courses'&#10;Optimized: 'forms, view'&#10;&gt; From: 'simplemooc'&#10;Added: 'Accounts'&#10;Optimized: 'settings'&#10;&gt; From: 'coreutils'&#10;Added: 'mail'" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/simplemooc/simplemooc/coreutils/tests.py">
