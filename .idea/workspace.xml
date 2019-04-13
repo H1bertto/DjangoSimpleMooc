@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77cdb157-82a2-4329-86a8-2c17d4aded3c" name="Default Changelist" comment="">
+    <list default="true" id="77cdb157-82a2-4329-86a8-2c17d4aded3c" name="Default Changelist" comment="Teste 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/simplemooc/simplemooc/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
+            <state relative-caret-position="409">
+              <caret line="134" selection-start-line="134" selection-end-line="134" />
             </state>
           </provider>
         </entry>
@@ -235,7 +235,7 @@
       <workItem from="1554766026812" duration="645000" />
       <workItem from="1554771225956" duration="603000" />
       <workItem from="1554828600043" duration="108000" />
-      <workItem from="1555177541418" duration="12307000" />
+      <workItem from="1555177541418" duration="12525000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionado Novo template para cursos e Ajudstado Hierarquia de pastas">
       <created>1554146959420</created>
@@ -272,14 +272,29 @@
       <option name="project" value="LOCAL" />
       <updated>1555192576885</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Teste 2">
+      <created>1555192855730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555192855730</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Teste 2">
+      <created>1555192975133</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1555192975133</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40091000" />
+    <option name="totallyTimeSpent" value="40309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-264" width="1296" height="1040" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19093852" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -312,7 +327,8 @@
     <MESSAGE value="Adicionado Media Root, Forms e Otimizado Models, Views, Urls" />
     <MESSAGE value="&gt; From: 'Courses'&#10;Optimized: 'forms, view'&#10;&gt; From: 'simplemooc'&#10;Added: 'Accounts'&#10;Optimized: 'settings'&#10;&gt; From: 'coreutils'&#10;Added: 'mail'" />
     <MESSAGE value="Teste" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste" />
+    <MESSAGE value="Teste 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/simplemooc/simplemooc/coreutils/tests.py">
@@ -518,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simplemooc/simplemooc/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
+        <state relative-caret-position="409">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
         </state>
       </provider>
     </entry>
