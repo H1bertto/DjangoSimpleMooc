@@ -21,6 +21,7 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     path('', include(('simplemooc.coreutils.urls', 'coreutils'), namespace='coreutils')),
+    path('conta/', include(('simplemooc.accounts.urls', 'courses'), namespace='accounts')),
     path('cursos/', include(('simplemooc.courses.urls', 'courses'), namespace='courses')),
     path('admin/', admin.site.urls),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
