@@ -39,9 +39,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # Minhas Apps
-    'simplemooc.coreutils.apps.CoreutilsConfig',
     'simplemooc.courses.apps.CoursesConfig',
+    'simplemooc.coreutils.apps.CoreutilsConfig',
     'simplemooc.accounts.apps.AccountsConfig',
+
     # // Django Version 1.6 //
     # 'simplemooc.coreutils'
     # 'simplemooc.courses'
@@ -143,3 +144,9 @@ EMAIL_HOST_PASSWORD = 'PythonTGG2'
 EMAIL_PORT = 587
 
 CONTACT_EMAIL = 'thegambiarra2@gmail.com'
+
+# Auth
+LOGIN_URL = "accounts:login"
+LOGIN_REDIRECT_URL = "coreutils:home"
+LOGOUT_URL = "accounts:logout"
+# LOGOUT_REDIRECT_URL = "coreutils:home"

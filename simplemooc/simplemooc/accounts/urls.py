@@ -1,9 +1,12 @@
 from django.urls import path
 from django.conf.urls import url
-from django.contrib.auth import views
-# from . import views
+from django.contrib.auth.views import LoginView, LogoutView
+from . import views
+
 
 urlpatterns = [
-    path('entrar/', views.auth_login, name='login'),
-    # path('entr/', views.contact, name='contact'),
+    path('', views.dashboard, name='dashboard'),
+    path('entrar/', LoginView.as_view(template_name='accounts/login.html'), name='login'),
+    path('sair/', LogoutView.as_view(next_page='coreutils:home'), name='logout'),
+    path('cadastre-se/', views.register, name='register'),
 ]
