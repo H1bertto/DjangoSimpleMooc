@@ -150,3 +150,4 @@ LOGIN_URL = "accounts:login"
 LOGIN_REDIRECT_URL = "coreutils:home"
 LOGOUT_URL = "accounts:logout"
 # LOGOUT_REDIRECT_URL = "coreutils:home"
+AUTH_USER_MODEL = 'accounts.User'

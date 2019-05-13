@@ -35,8 +35,13 @@ class Course(models.Model):
         # ordering = ['-name']  # Decrescente
 
 # Commands
+# Específico
 # add in settings
 # python manage.py makemigrations courses
 # python manage.py sqlmigrate courses 0001
 # python manage.py migrate
 # python manage.py shell
+
+# Para Geral
+# python manage.py makemigrations
+# python manage.py migrate
