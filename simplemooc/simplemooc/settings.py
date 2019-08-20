@@ -25,7 +25,7 @@ SECRET_KEY = 'sf+n3%m*gr2zcgw6dl&9!2t_9)c=!y16ttb(m(lwk0#mr&na_g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.22.94.151', '127.0.0.1', '192.168.1.30']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -136,14 +136,14 @@ MEDIA_URL = '/media/'
 # E-Mails
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
-DEFAULT_FROM_EMAIL = 'The Gambiarra <thegambiarra2@gmail.com>'
+DEFAULT_FROM_EMAIL = 'The Gambiarra <EMAIL>@gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'thegambiarra2@gmail.com'
-EMAIL_HOST_PASSWORD = 'PythonTGG2'
+EMAIL_HOST_USER = '<EMAIL>@gmail.com'
+EMAIL_HOST_PASSWORD = '<PASSWORD>'
 EMAIL_PORT = 587
 
-CONTACT_EMAIL = 'thegambiarra2@gmail.com'
+CONTACT_EMAIL = '<EMAIL>@gmail.com'
 
 # Auth
 LOGIN_URL = "accounts:login"

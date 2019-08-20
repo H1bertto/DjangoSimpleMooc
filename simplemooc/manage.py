@@ -4,6 +4,7 @@ import sys
 
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'simplemooc.settings')
+    # os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'simplemooc.settings2')
     try:
         from django.core.management.commands.runserver import Command as Rs
         Rs.default_port = "8080"
