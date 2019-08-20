@@ -21,7 +21,7 @@ git clone https://github.com/H1bertto/DjangoSimpleMooc.git
 cd DjangoSimpleMooc
 start.bat
 ```
-Ou se seu SO for Windows
+Ou se seu SO for Windows `win-start.bat`
 ```
 cd DjangoSimpleMooc
 win-start.bat
