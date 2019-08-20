@@ -41,3 +41,17 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
+
+__NOTA:__ Para que o envio de emails funcione sem ser pelo console edite em `settings.py` os campos <EMAIL> e <PASSWORD> com suas informações e troque as linhas comentadas a seguir:
+
+
+De:
+```
+# EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+```
+
+Para:
+```
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+# EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
